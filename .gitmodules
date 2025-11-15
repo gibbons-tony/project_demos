@@ -1,0 +1,12 @@
+[submodule "nlp_demo"]
+	path = nlp_demo
+	url = https://github.com/gibbons-tony/nlp_demo.git
+[submodule "cloud_app_demo"]
+	path = cloud_app_demo
+	url = https://github.com/gibbons-tony/cloud_app_demo.git
+[submodule "computer_vision_demo"]
+	path = computer_vision_demo
+	url = https://github.com/gibbons-tony/computer_vision_demo.git
+[submodule "rag_demo"]
+	path = rag_demo
+	url = https://github.com/gibbons-tony/rag_demo.git
