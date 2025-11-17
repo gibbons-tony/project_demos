@@ -1,6 +1,16 @@
 [submodule "nlp_demo"]
 	path = nlp_demo
-	url = http://local_proxy@127.0.0.1:39625/git/gibbons-tony/nlp_demo
+	url = http://local_proxy@127.0.0.1:51887/git/gibbons-tony/nlp_demo
+[submodule "cloud_app_demo"]
+	path = cloud_app_demo
+	url = http://local_proxy@127.0.0.1:51887/git/gibbons-tony/cloud_app_demo
+[submodule "computer_vision_demo"]
+	path = computer_vision_demo
+	url = http://local_proxy@127.0.0.1:51887/git/gibbons-tony/computer_vision_demo
+[submodule "rag_demo"]
+	path = rag_demo
+	url = http://local_proxy@127.0.0.1:51887/git/gibbons-tony/rag_demo
+	url = http://local_proxy@127.0.0.1:53482/git/gibbons-tony/nlp_demo
 [submodule "cloud_app_demo"]
 	path = cloud_app_demo
 	url = http://local_proxy@127.0.0.1:39625/git/gibbons-tony/cloud_app_demo
